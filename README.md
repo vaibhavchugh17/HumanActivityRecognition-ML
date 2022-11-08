@@ -1,4 +1,4 @@
-# Human Activity Recognition - A Multi-class Classification ML Project
+# Human Activity Recognition - A Multi-Class Classification ML Project
 
 
 In this project, I’m implementing 4 multi-class classification models on the Human Activity Recognition Using Smartphones (HAR) data set with a trivial majority-guess
